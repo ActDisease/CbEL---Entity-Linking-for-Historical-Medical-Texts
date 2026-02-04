@@ -53,4 +53,3 @@ You can copy and paste `linkers/cbel.py` to `./src/elevant/linkers/cbel.py` and 
 
 ## Dataset
 You can find the MedHistory benchmark on [HuggingFace](https://huggingface.co/datasets/npvinHnivqn/MedHistory). This benchmark is collected and annotated from 20th century BMJ papers.
-
